@@ -1,0 +1,7 @@
+{
+	"prefix": "!",
+    "token": "your bot token here",
+    "subreddit":"amongus",
+    "pages":10,
+    "role_that_can_mute": "Mod"
+}
